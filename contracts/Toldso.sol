@@ -6,7 +6,7 @@ pragma solidity ^0.8.9;
 
 contract Toldso {
     struct Post{
-        string titlt;
+        string title;
         string body;
         uint256 timestamp;
     }
